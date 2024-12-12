@@ -1,20 +1,6 @@
 ## 👋 Welcome to the Born2beRoot project
 **Bu kaynak, Born2beRoot projesini yaparken öğrendiklerimi ve deneyimlerimi içermektedir.**
 
-## İçindekiler
-1. [Sanallaştırma Temelleri](#sanallaştırma-temelleri)
-    - 1.1. [Sanallaştırmanın Tarihçesi ve Gelişimi](#sanallaştırmanın-tarihçesi-ve-gelişimi)
-        - 1.1.1. [Sanallaştırma teknolojisinin nasıl ortaya çıktı ?](#sanallaştırma-teknolojisinin-nasıl-ortaya-çıktığını-öğren)
-        - 1.1.2. [Modern sanallaştırma çözümlerinin tarihsel gelişimi](#modern-sanallaştırma-çözümlerinin-tarihsel-gelişimi)
-    - 1.2. [Sanallaştırma nedir ve neden kullanılır?](#sanallaştırma-nedir-ve-neden-kullanılır)
-        - 1.2.1. [Fiziksel donanım üzerinde birden fazla işletim sistemi çalıştırmanın avantajları](#fiziksel-donanım-üzerinde-birden-fazla-işletim-sistemi-çalıştırmanın-avantajları)
-        - 1.2.2. [Host (Ana Makine) ve Guest (Misafir Makine) arasındaki ilişki](#host-ana-makine-ve-guest-misafir-makine-arasındaki-ilişki)
-        - 1.2.3. [Sanallaştırma türleri](#sanallaştırma-türleri)
-    - 1.3. [Hypervisor nedir?](#hypervisor-nedir)
-        - 1.3.1. [Type 1 ve Type 2 Hypervisor farkları](#type-1-ve-type-2-hypervisor-farkları)
-        - 1.3.2. [Overcommitment (kaynakların fazla tahsisi)](#overcommitment-kaynakların-fazla-tahsisi)
-
-
 ## 📖 Bazı Terimlerin Açıklamaları
 
    - **Fiziksel Makine (Physical Machine):** Gerçek donanıma sahip olan bilgisayar.
