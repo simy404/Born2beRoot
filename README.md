@@ -22,6 +22,16 @@
 ## 🖴   2. Logical Volume Manager (LVM) Nasıl Çalışır ?
  Disk Yönetim sistemidir,fiziksel disklerimizi soyutlayıp onları yönetmemizi sağlar.
  LVM (Logical Volume Manager), fiziksel diskleri veya bölümleri fiziksel hacimler (Physical Volumes) olarak tanımlar ve bu hacimleri bir Volume Group (VG) adı verilen bir depolama havuzunda birleştirir. Bu havuzdan, esnek boyutlandırılabilir mantıksal hacimler (Logical Volumes) oluşturulur. Logical Volume'lar, işletim sistemi tarafından bir disk gibi algılanır ve bağlanarak (mount) kullanılabilir.
+ayrıntılı bilgi için: [(İTÜ Seyir Defteri LVM yazısı)](https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/06/lvm-(logical-volume-management))
+
 <p align="center">
   <img src="image.png" alt="LVM Components">
 </p>
+
+# SSH Nedir
+SSH bir Güvenli Kabuktur (Secure Shell).Güvenli olmayan bir ağ üzerinden bir bilgisayara güvenli bir şekilde komut göndermek için kullanılan bir yöntemdir. SSH istemci programı, genellikle uzak bağlantıları kabul eden bir SSH hizmetine (daemon) bağlantı kurmak için kullanılır.
+
+# Port Nedir ?
+Port, bir bilgisayar sisteminde belirli bir hizmete veya uygulamaya ayrılan bir iletişim noktasıdır. Daha fazla bilgi için aşağıdaki bağlantıya göz atabilirsiniz:
+👉 [Port Nedir? - Youtube](https://youtu.be/g2fT-g9PX9o)
+
